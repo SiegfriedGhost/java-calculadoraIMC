@@ -1,5 +1,6 @@
 package br.com.bb8leko.calculadoraIMC;
 
+//Calculadora IMC 
 public class CalculadoraIMC {
 	
     private double imc(double altura, double peso) {
